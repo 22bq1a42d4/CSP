@@ -1,4 +1,4 @@
-# CSP – Community Service Projeect(Personal Budgeting App)
+# CSP – Community Service Project (Personal Budgeting App)
 
 A Flutter mobile application designed to help users manage their budgets and track transactions effectively. It uses Firebase for authentication and Firestore for storing user data in real time.
 
