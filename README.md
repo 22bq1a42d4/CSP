@@ -51,9 +51,12 @@ lib/
 .flutter/material
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 | 🔐 Firebase Authentication | 📊 Bar Graph Overview | 🧿 Pie Chart of Expenses | 💵 Dashboard |
 |----------------------------|------------------------|--------------------------|--------------|
-| <img src="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6" width="200"/> | <img src="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e" width="200"/> | <img src="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df" width="200"/> | <img src="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e" width="200"/> |
+| <a href="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6"><img src="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6" width="200"/></a> | <a href="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e"><img src="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e" width="200"/></a> | <a href="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df"><img src="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df" width="200"/></a> | <a href="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e"><img src="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e" width="200"/></a> |
+
 
 
 
