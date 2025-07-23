@@ -50,30 +50,11 @@ lib/
 .cloud_firestore
 .flutter/material
 ## 📷 Screenshots
- 🔐 Firebase Authentication
 
- 
-![ex1](https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6)
+| 🔐 Firebase Authentication | 📊 Bar Graph Overview | 🧿 Pie Chart of Expenses | 💵 Dashboard |
+|----------------------------|------------------------|--------------------------|--------------|
+| <img src="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6" width="200"/> | <img src="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e" width="200"/> | <img src="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df" width="200"/> | <img src="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e" width="200"/> |
 
-
-
- 📊 Bar graph budget overview
-
- 
-![ex3](https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e)
-
-
-🧿 Pie Chart of expenses
-
-
-![ex2](https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df)
-
-
-
-💵 DashBoard
-
-
-![ex4](https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e)
 
 
 ## 🛠️ Skills & Technologies Used
