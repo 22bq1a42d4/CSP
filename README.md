@@ -13,22 +13,30 @@ A Flutter mobile application designed to help users manage their budgets and tra
 
 ## 📁 Project Structure
 
+```
 lib/
-├── models/
-│ ├── budget.dart
-│ └── transaction.dart
-├── services/
-│ ├── firestore_services.dart
-│ └── firebase_auth.dart
-├── screens/
-│ ├── add_transaction.dart
-│ ├── budgets_screen.dart
-│ ├── dashboard_screen.dart
-│ ├── home_screen.dart
-│ ├── profile_screen.dart
-│ └── transactions_screen.dart
-├── firebase_options.dart
-└── main.dart
+├── 📦 models/
+│   ├── 📄 budget.dart
+│   └── 📄 transaction.dart
+│
+├── 🛠️ services/
+│   ├── 🔥 firestore_services.dart
+│   └── 🔐 firebase_auth.dart
+│
+├── 🖥️ screens/
+│   ├── ➕ add_transaction.dart
+│   ├── 💼 budgets_screen.dart
+│   ├── 📊 dashboard_screen.dart
+│   ├── 🏠 home_screen.dart
+│   ├── 👤 profile_screen.dart
+│   └── 📋 transactions_screen.dart
+│
+├── ⚙️ firebase_options.dart
+└── 🚀 main.dart
+```
+              
+
+
 ## 🚀 Getting Started
 
 1. **Clone the repository**
