@@ -76,7 +76,26 @@ lib/
 ![ex4](https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e)
 
 
+## 🛠️ Skills & Technologies Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+</p>
 
 
+## 📦 Download
+
+You can download the latest APK release of the CSP app from the [Releases](https://github.com/22bq1a42d4/CSP/releases) section.
+
+<p>
+  <a href="https://github.com/22bq1a42d4/CSP/releases/latest">
+    <img src="https://img.shields.io/github/v/release/22bq1a42d4/CSP?label=Download%20APK&style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</p>
 
 
