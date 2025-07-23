@@ -38,7 +38,7 @@ lib/
 
 
 ## 🚀 Getting Started
-
+![Getting Started](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 1. **Clone the repository**
    ```bash
    git clone https://github.com/22bq1a42d4/CSP.git
