@@ -57,7 +57,7 @@ lib/
 .firebase_auth
 .cloud_firestore
 .flutter/material
-## 📷 Screenshots
+
 
 ## 📷 Screenshots
 
