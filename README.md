@@ -4,24 +4,44 @@ A Flutter mobile application designed to help users manage their budgets and tra
 
 ## ✨ Features
 
-- 🔐 Firebase Authentication
-- 📊 Dashboard with budget overview
-- 💸 Add and manage transactions
-- 📁 Handle multiple budgets
-- 👤 View and edit user profile
-- ☁️ Real-time updates with Cloud Firestore
+-🔐 Firebase Authentication
+Secure user sign-in and registration powered by Firebase.
+
+-📊 Dashboard with Budget Overview
+Visual summary of your spending, remaining budgets, and categories.
+
+-💸 Add and Manage Transactions
+Record income or expenses and view transaction history with ease.
+
+-📁 Handle Multiple Budgets
+Create and manage different budgets for various goals or categories.
+
+-👤 View and Edit User Profile
+Update user information and profile details within the app.
+
+-☁️ Real-Time Updates with Cloud Firestore
+All data changes reflect instantly across devices with Firestore sync.
+
+-🧠 Smart Spending Suggestions (New)
+Get intelligent suggestions based on your latest transactions — like alerting overspending in categories, or recommending budget adjustments.
 
 ## 📁 Project Structure
 
 ```
+assets/
+├── 🎨 fonts/
+├── 🖼️ icon.png
+├── 🖼️ logo.png
+└── 🖼️ main_icon.png
+
 lib/
 ├── 📦 models/
 │   ├── 📄 budget.dart
 │   └── 📄 transaction.dart
 │
 ├── 🛠️ services/
-│   ├── 🔥 firestore_services.dart
-│   └── 🔐 firebase_auth.dart
+│   ├── 🔐 firebase_auth.dart
+│   └── 🔥 firestore_services.dart
 │
 ├── 🖥️ screens/
 │   ├── ➕ add_transaction.dart
@@ -29,10 +49,13 @@ lib/
 │   ├── 📊 dashboard_screen.dart
 │   ├── 🏠 home_screen.dart
 │   ├── 👤 profile_screen.dart
+│   ├── 💡 suggestions_screen.dart
 │   └── 📋 transactions_screen.dart
 │
 ├── ⚙️ firebase_options.dart
+├── 🧭 main_screen.dart
 └── 🚀 main.dart
+
 ```
               
 
@@ -52,18 +75,38 @@ lib/
 4. **Run the App**
       ```bash
    flutter run
+
+      
 ## 🧰 Dependencies
-.firebase_core
-.firebase_auth
-.cloud_firestore
-.flutter/material
+
+This project utilizes the following core Flutter and Firebase packages:
+
+| Package | Description |
+|--------|-------------|
+| [`firebase_core`](https://pub.dev/packages/firebase_core) | 🔌 Initializes Firebase within the Flutter app |
+| [`firebase_auth`](https://pub.dev/packages/firebase_auth) | 🔐 Enables user authentication with email/password or providers |
+| [`cloud_firestore`](https://pub.dev/packages/cloud_firestore) | ☁️ Handles real-time database interactions using Firestore |
+| [`flutter/material.dart`](https://api.flutter.dev/flutter/material/material-library.html) | 🎨 Provides Material Design components and theming |
+
 
 
 ## 📷 Screenshots
 
-| 🔐 Firebase Authentication | 📊 Bar Graph Overview | 🧿 Pie Chart of Expenses | 💵 Dashboard |
-|----------------------------|------------------------|--------------------------|--------------|
-| <a href="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6"><img src="https://github.com/user-attachments/assets/1623bafe-7e47-4710-9bbc-481df6295ac6" width="200"/></a> | <a href="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e"><img src="https://github.com/user-attachments/assets/60f32c55-684f-4f37-872c-2248ceb2e89e" width="200"/></a> | <a href="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df"><img src="https://github.com/user-attachments/assets/4e4ec539-be01-4639-ba10-d3c3509817df" width="200"/></a> | <a href="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e"><img src="https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e" width="200"/></a> |
+### These images let u know our UI
+
+
+| 🔐 Firebase Authentication | 📊 Bar Graph Overview | 🧿 Pie Chart of Expenses |
+|:--:|:--:|:--:|
+| [![Firebase](https://github.com/user-attachments/assets/b0a09547-03a5-4bb2-b507-488731aa4e28)](https://github.com/user-attachments/assets/b0a09547-03a5-4bb2-b507-488731aa4e28) | [![Bar Graph](https://github.com/user-attachments/assets/7abf09f1-bef0-4946-9d25-4d6e2770647b)](https://github.com/user-attachments/assets/7abf09f1-bef0-4946-9d25-4d6e2770647b) | [![Pie Chart](https://github.com/user-attachments/assets/7693b420-f514-4886-a2c6-324e11ff314f)](https://github.com/user-attachments/assets/7693b420-f514-4886-a2c6-324e11ff314f) |
+
+
+
+| 💵 Dashboard | 💡 Smart Suggestions | 📋 Transactions |
+|:--:|:--:|:--:|
+| [![Dashboard](https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e)](https://github.com/user-attachments/assets/42f799bf-6a7f-4917-9978-4ec3edf7061e) | [![Suggestions](https://github.com/user-attachments/assets/11286e02-a251-4f74-bc6d-c7333f93f908)](https://github.com/user-attachments/assets/11286e02-a251-4f74-bc6d-c7333f93f908) | [![Transactions](https://github.com/user-attachments/assets/f87be747-429b-47bb-8840-73a72d6725c9)](https://github.com/user-attachments/assets/f87be747-429b-47bb-8840-73a72d6725c9) |
+
+
+
 
 
 
